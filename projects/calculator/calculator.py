@@ -1,3 +1,9 @@
+# Don't forget to call the function
+def welcome():
+    print('''
+Welcome to calculator
+''')
+
 # Define our function
 def calculate():
     operation = input('''
@@ -6,6 +12,8 @@ Please type in the amth operation you would like to complete:
 - for subtraction
 * for multiplication
 / for division
+** for power
+% for modulo
 ''')
 
     number_1 = int( input('Enter your first number: '))
