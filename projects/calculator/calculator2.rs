@@ -50,7 +50,7 @@ impl Op {
 }
 
 fn calculate() -> Result<(), String> {
-   println!("Please type in the amth operation you would like to complete:
+   println!("Please type in the math operation you would like to complete:
 + for addition
 - for subtraction
 * for multiplication
@@ -102,3 +102,5 @@ fn main() {
     welcome();
     calculate().unwrap();
 }
+
+// Really cool studying over this; still understand zero of the above.

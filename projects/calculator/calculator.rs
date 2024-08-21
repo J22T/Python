@@ -5,7 +5,7 @@ fn welcome() {
 }
 
 fn calculate() {
-   println!("Please type in the amth operation you would like to complete:
+   println!("Please type in the math operation you would like to complete:
 + for addition
 - for subtraction
 * for multiplication
@@ -70,3 +70,5 @@ fn main() {
     welcome();
     calculate();
 }
+
+// Wow

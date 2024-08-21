@@ -72,3 +72,5 @@ print("Time taken: ", time.time() - cache_start)
 # play with the sleep time or the range to see how it affects performance.
 
 # With 10,000 elements, you can see that (on this machine), the non-cached version is twice as slow, and that's WITHOUT the sleep time.
+
+# Reviewed and acknowledged; still understand zero of the above at this point in time.
