@@ -1,2 +1,3 @@
 # In a world, I print.
-print("hello world")
+name = input("What is your name? ")
+print("Hello, " + name)
