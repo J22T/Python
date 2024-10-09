@@ -2,11 +2,7 @@
 - Practice Python and Git
 
 # Objective
-- Practive Python and Git
-
-# Resources
-- DigitalOcean
-- ProgammingwithMosh
+- Build projects
 
 # Tooling
 - VSCode
